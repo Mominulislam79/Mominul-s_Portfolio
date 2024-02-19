@@ -123,17 +123,20 @@ main section{
 .skill-description{
     color: #757575;
 }
+
+/* resume section styles */
+
 .resume-column-title{
     color: #474747;
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 700;
     margin-bottom: 10px;
 }
-.resume-container{
+/* .resume-container{
     display: flex;
     gap: 50px;
-}
-.degree-description, .university-name{
+} */
+/* .degree-description, .university-name{
     color: #757575;
 }
 .education-degree{
@@ -147,4 +150,4 @@ main section{
 }
 .resume-container hr{
     margin: 30px;
-}
+} */
