@@ -156,6 +156,11 @@ main section{
     text-align: center;
     margin-top: 50px;
 }
+/* footer related styles */
+footer{
+    display: flex;
+    background: #FFF8F3;
+}
 /* .resume-container{
     display: flex;
     gap: 50px;
